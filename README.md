@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PutraAr16
-- 👀 I’m interested in front end develover
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web Development
 
 <!---
 PutraAr16/PutraAr16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
